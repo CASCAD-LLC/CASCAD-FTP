@@ -28,6 +28,7 @@ git clone https://github.com/CASCAD-LLC/CASCAD-FTP.git
 Открываем проект с помощью Qt Creator или другой среды (показываю на примере Qt Creator):
 Файл->Открыть файл или проект
 ![image](https://github.com/user-attachments/assets/7f14b4da-cc52-4cd6-95da-18e5b464455d)
+
 Далее открываем CMakeLists.txt. Проект будет загружаться, Qt Creator сам его проиндексирует и установит зависимости, если в предыдущем пункте вы что-то не установили, то он вас проинформирует.
 После завершения инициализации, нажмите на кнопку запуска: ![image](https://github.com/user-attachments/assets/c6afab17-25b7-45e3-8fce-68a0f3aa8b22)
 
